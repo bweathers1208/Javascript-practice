@@ -1,0 +1,6 @@
+Function that converts hours to minutes:
+
+function timeConvert(hours) {
+  var minutes = hours * 60;
+  return (minutes);
+ }
