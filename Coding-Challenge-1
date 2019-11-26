@@ -4,3 +4,14 @@ function timeConvert(hours) {
   var minutes = hours * 60;
   return (minutes);
  }
+
+----------------------------------------
+
+Function that calculates the remainder of 2 numbers:
+
+function findRemainder(x, y) {
+  var result = x % y;
+  return result;
+}
+
+----------------------------------------
